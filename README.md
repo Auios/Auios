@@ -1,4 +1,4 @@
-## Connor O'Connor<br>(aka, Auios)<br>((also aka aka, "Register"))
+## Connor O'Connor<br>(AKA, Auios)<br>((also AKA AKA, "Register"))
 
 ### Memory leaks? Memory redistribution!
 
